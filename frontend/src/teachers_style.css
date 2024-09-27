@@ -1,0 +1,19 @@
+.custom-button-link {
+    margin: 25px;
+    text-decoration: none;
+    color: #007bff;
+  }
+  
+  .custom-button-details {
+    background-color: #007bff;
+    color: white;
+    border: none; 
+    padding: 10px 20px; 
+    border-radius: 4px; 
+    transition: background-color 0.3s;
+  }
+  
+  .custom-button-details:hover {
+    background-color: #0056b3
+  }
+  
